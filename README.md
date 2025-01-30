@@ -1,10 +1,10 @@
-# ✨ Full Stack Realtime Chat App ✨
+<!-- # ✨ Full Stack Realtime Chat App ✨
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-<!-- [Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+<!-- [Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY) -->
 
-Highlights:
+<!-- Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 - 🎃 Authentication && Authorization with JWT
@@ -39,4 +39,4 @@ npm run build
 
 ```shell
 npm start
-``` -->
+``` --> -->
